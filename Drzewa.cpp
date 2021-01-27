@@ -347,74 +347,8 @@ bool search(node* tree, int x)
 
 //Zad. 5. Dla każdego z następujących ciągów kluczy narysuj drzewo BST uzyskane przez wstawienie
 //kluczy, jeden po drugim, w danym porządku, do początkowo pustego drzewa.
-/*
-	a) 1, 2, 3, 4, 5, 6, 7.
-
-			1
-			 \
-			  2
-			   \
-				3
-				 \
-				  4
-				   \
-					5
-					 \
-					  6
-					   \
-						7
-	b) 4, 2, 1, 3, 6, 5, 7.
-
-	 4
-    /\
-   2   6
-  /\   /\		  
- 1 3  5  7		 
-			 
-
-
-	c) 1, 6, 7, 2, 4, 3, 5.
-				  1
-				   \
-					6
-					/\
-				   2  7
-					\
-					 4
-					/ \
-				   3   5
-	*/
-
 
 //Zad. 6. Dla każdego drzewa BST uzyskanego w zadaniu 5. narysuj drzewo po usunięciu korzenia.
-	/*
+	
 
-a)
-   2
-    \
-	 3
-	  \
-	   4
-		\
-		 5
-		  \
-		   6
-			\
-			 7
-
-b)
-			 5
-			/ \
-		   2   6
-		  / \    \
-	     1   3    7
-
-c)
-		    6
-		   / \
-		   2   7
-		    \
-             4
-            / \
-           3   5
-*/
+// zadania znajdują się w pliku 5_i_6.jpg

@@ -366,7 +366,7 @@ bool search(node* tree, int x)
 	b) 4, 2, 1, 3, 6, 5, 7.
 
 	 4
-	/\
+    /\
    2   6
   /\   /\		  
  1 3  5  7		 
